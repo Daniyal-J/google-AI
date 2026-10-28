@@ -1,0 +1,6 @@
+{
+  "name": "My DiaCare",
+  "description": "Personal Type 1 Diabetes Medication Tracker & Daily Task Planner",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
